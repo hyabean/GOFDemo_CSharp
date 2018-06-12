@@ -1,0 +1,6 @@
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+c:\users\hongy\documents\visual studio 2017\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
